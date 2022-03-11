@@ -1,11 +1,11 @@
 ---
 title: "BOJ 10814 나이순 정렬"
-category: "알고리즘"
-author: kuper0201
-tags: ['#algorithm']
+author:
+  name: kuper0201
+  link: https://github.com/kuper0201
 date: 2022-03-01
-slug: test
-thumbnail: cover.jpg
+categories: [알고리즘]
+tags: [Algorithm]
 ---
 
 # BOJ 문제 풀이
